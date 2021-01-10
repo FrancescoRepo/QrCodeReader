@@ -1,0 +1,108 @@
+{
+  "@@last_modified": "2019-11-07T18:45:31.801482",
+  "history": "History",
+  "@history": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "clearAll": "Clear All",
+  "@clearAll": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "date": "Date: ",
+  "@date": {
+      "type": "text",
+      "placeholders": {}
+  },
+  "share": "Share",
+  "@share": {
+      "type": "text",
+      "placeholders": {}
+  },
+  "copy": "Copy",
+  "@copy": {
+      "type": "text",
+      "placeholders": {}
+  },
+  "addContact": "Add Contact",
+  "@addContact": {
+      "type": "text",
+      "placeholders": {}
+  },
+  "urlNotValid": "Url Not Valid",
+  "@urlNotValid": {
+      "type": "text",
+      "placeholders": {}
+  },
+  "textCopied": "Text Copied !",
+  "@textCopied": {
+      "type": "text",
+      "placeholders": {}
+  },
+  "linkCopied": "Link Copied !",
+  "@linkCopied": {
+      "type": "text",
+      "placeholders": {}
+  },
+  "deleteSelected": "Delete Selected",
+  "@deleteSelected": {
+      "type": "text",
+      "placeholders": {}
+  },
+  "historyQR": "History QR",
+  "@historyQR": {
+      "type": "text",
+      "placeholders": {}
+  },
+  "selectOneItem": "Select at least 1 item",
+  "@selectOneItem": {
+      "type": "text",
+      "placeholders": {}
+  },
+  "goToMaps": "Go To Maps",
+  "@goToMaps": {
+      "type": "text",
+      "placeholders": {}
+  },
+  "search": "Search",
+  "@search": {
+      "type": "text",
+      "placeholders": {}
+  },
+  "cameraDenied": "Camera Permission Denied",
+  "@cameraDenied": {
+      "type": "text",
+      "placeholders": {}
+  },
+  "openSettings": "Open Settings",
+  "@openSettings": {
+      "type": "text",
+      "placeholders": {}
+  },
+  "wifiContent": "Wifi Content",
+  "@wifiContent": {
+      "type": "text",
+      "placeholders": {}
+  },
+  "plainTextContent": "Plain Text Content",
+  "@plainTextContent": {
+      "type": "text",
+      "placeholders": {}
+  },
+  "urlContent": "URL Content",
+  "@urlContent": {
+      "type": "text",
+      "placeholders": {}
+  },
+  "geoContent": "Geo Content",
+  "@geoContent": {
+      "type": "text",
+      "placeholders": {}
+  },
+  "contactContent": "Contact Content",
+  "@contactContent": {
+      "type": "text",
+      "placeholders": {}
+  }
+}

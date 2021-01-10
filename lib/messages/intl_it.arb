@@ -1,0 +1,108 @@
+{
+  "@@last_modified": "2019-11-07T18:45:31.801482",
+  "history": "Cronologia Scansioni",
+  "@history": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "clearAll": "Pulisci tutto",
+  "@clearAll": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "date": "Data: ",
+  "@date": {
+      "type": "text",
+      "placeholders": {}
+  },
+  "share": "Condividi",
+  "@share": {
+      "type": "text",
+      "placeholders": {}
+  },
+  "copy": "Copia",
+  "@copy": {
+      "type": "text",
+      "placeholders": {}
+  },
+  "addContact": "Aggiungi Contatto",
+  "@addContact": {
+      "type": "text",
+      "placeholders": {}
+  },
+  "urlNotValid": "Url Non Valido",
+  "@urlNotValid": {
+      "type": "text",
+      "placeholders": {}
+  },
+  "textCopied": "Testo Copiato!",
+  "@textCopied": {
+      "type": "text",
+      "placeholders": {}
+  },
+  "linkCopied": "Link Copiato!",
+  "@linkCopied": {
+      "type": "text",
+      "placeholders": {}
+  },
+  "deleteSelected": "Elimina Selezionati",
+  "@deleteSelected": {
+      "type": "text",
+      "placeholders": {}
+  },
+  "historyQR": "Cronologia Scansioni",
+  "@historyQR": {
+      "type": "text",
+      "placeholders": {}
+  },
+  "selectOneItem": "Seleziona almeno 1 elemento",
+  "@selectOneItem": {
+      "type": "text",
+      "placeholders": {}
+  },
+  "goToMaps": "Vai alla Mappa",
+  "@goToMaps": {
+      "type": "text",
+      "placeholders": {}
+  },
+  "search": "Cerca sul web",
+  "@search": {
+      "type": "text",
+      "placeholders": {}
+  },
+  "cameraDenied": "Abilitare autorizzazione fotocamera",
+  "@cameraDenied": {
+      "type": "text",
+      "placeholders": {}
+  },
+  "openSettings": "Apri Impostazioni",
+  "@openSettings": {
+      "type": "text",
+      "placeholders": {}
+  },
+  "wifiContent": "Rete Wifi",
+  "@wifiContent": {
+      "type": "text",
+      "placeholders": {}
+  },
+  "plainTextContent": "Puro Testo",
+  "@plainTextContent": {
+      "type": "text",
+      "placeholders": {}
+  },
+  "urlContent": "URL Sito Web",
+  "@urlContent": {
+      "type": "text",
+      "placeholders": {}
+  },
+  "geoContent": "Coordinate GPS",
+  "@geoContent": {
+      "type": "text",
+      "placeholders": {}
+  },
+  "contactContent": "Scheda Contatto",
+  "@contactContent": {
+      "type": "text",
+      "placeholders": {}
+  }
+}
