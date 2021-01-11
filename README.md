@@ -17,3 +17,6 @@ The app keeps all the QR Codes scanned in the smartphone memory.
   This command will download all the dependencies necessary for the app
 
 - Run the application
+
+## License
+QrCodeReader is available under the MIT license. See the LICENSE file for more info.
